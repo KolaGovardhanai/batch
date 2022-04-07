@@ -1,7 +1,7 @@
   class Circle{
     public  int radius; 
-    public void setRadius(int r1){
-    radius=r1;
+    public void setRadius(int r){
+    radius=r;
    }
      public int getRadius(){
      return radius;
